@@ -1,0 +1,138 @@
+body{
+    font-family: Arial;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+
+}
+.imagem{
+    background-color: rgb(143, 143, 143);
+    text-align: center;
+    padding: 30px;
+    width: 300px;
+    margin-left: 35px;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+}
+.botao{
+    text-align: center;
+}
+header{
+    display: flex;
+    background-color: rgb(125, 211, 189);
+    padding: 10px;
+}
+#main{
+    width: 85%;
+    margin-left: 160px;
+    size: 100px;
+    
+}
+#direita{
+
+    width: 15%;
+    padding: 30px;
+    text-decoration: none;
+    list-style: none;
+}
+nav{
+    background-color: rgb(66, 66, 228);
+    color: white;
+    
+    text-align: center;
+    padding: 10px;
+    margin-top: 5px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.introducao{
+    display: flex;
+    margin-top: 5px;
+}
+.fundo{
+    background-color: rgba(255, 255, 0, 0.507);
+    padding: 40px;
+     width: 60%;
+}
+.infos{
+    background-color: rgba(165, 42, 42, 0.466);
+    padding: 40px;
+    width: 40%;
+}
+.descricao{
+    width: 50%;
+}
+#produtos{
+    background-color: rgba(255, 255, 0, 0.247);
+    padding: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.produtos{
+    background-color: rgba(255, 255, 0, 0.247);
+    display: flex;
+    padding: 10px;
+
+}
+.produto{
+    text-align: center;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 100%;
+    background-color: rgba(252, 252, 252, 0.61);
+}
+main{
+    margin-top: 5px;
+
+}
+.p{
+    background-color: rgb(143, 143, 143);
+    text-align: center;
+    padding: 90px;   
+}
+#informacoes{
+    display: flex;
+}
+#esquerda{
+    background-color: rgba(154, 76, 190, 0.575);
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+#direitola{
+    background-color: rgba(137, 190, 76, 0.575);
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+footer{
+    display: flex;
+    background-color: rgb(80, 79, 79);
+    margin-top: 5px;
+}
+
+.paragrafo{
+    width: 60%;
+    color: white;
+    padding: 10px;
+    margin-left: 40px;
+}
+.detalhezinho{
+    width: 40%;
+    color: white;
+    margin-left: 10px;
+    text-align: center;
+    padding: 30px;
+
+}
